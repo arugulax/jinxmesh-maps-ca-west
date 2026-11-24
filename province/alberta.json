@@ -1,0 +1,170 @@
+{
+ "name": "alberta",
+ "format": "JMVM 4",
+ "group": 11027,
+ "bytes": 604722921,
+ "pieces": [
+  {
+   "file": "alberta-1.jmv",
+   "bytes": 30823435,
+   "sha256": "156fb092307dc29b97d0ac5bbf4829d3738407e50c0e80cf1b5d747613eca42d",
+   "south": 57.70415,
+   "west": -120.05859,
+   "north": 60.0429,
+   "east": -115.3125
+  },
+  {
+   "file": "alberta-2.jmv",
+   "bytes": 32294786,
+   "sha256": "7ede5aa4d804f6818452131967e57d4ec60a23c56106f55dec4fcbe1724acc50",
+   "south": 58.07788,
+   "west": -115.3125,
+   "north": 60.0429,
+   "east": -109.95117
+  },
+  {
+   "file": "alberta-3.jmv",
+   "bytes": 35941486,
+   "sha256": "75e4c1178e3c44df0ee693bf2dd3153d60bc1df0fea04dc2efc4cffe6475ab6f",
+   "south": 55.77657,
+   "west": -115.3125,
+   "north": 58.07788,
+   "east": -109.95117
+  },
+  {
+   "file": "alberta-4.jmv",
+   "bytes": 37224677,
+   "sha256": "2707741d3c0efe35a01af047d60a99acba5e1603de194a0b5170f310a5823609",
+   "south": 55.77657,
+   "west": -120.05859,
+   "north": 57.70415,
+   "east": -115.3125
+  },
+  {
+   "file": "alberta-5.jmv",
+   "bytes": 28635864,
+   "sha256": "10838813e9fc5a6a8368421c71267c6fc6b0037cab494af411a2b6fad021ad99",
+   "south": 54.16243,
+   "west": -120.05859,
+   "north": 55.77657,
+   "east": -117.42188
+  },
+  {
+   "file": "alberta-6.jmv",
+   "bytes": 39495821,
+   "sha256": "16a03f914823b9666c1f7f8ed363aafb84e479e255fea7dbfb2f01c8e40ccbcd",
+   "south": 53.33087,
+   "west": -117.42188,
+   "north": 55.77657,
+   "east": -113.90625
+  },
+  {
+   "file": "alberta-7.jmv",
+   "bytes": 37181005,
+   "sha256": "8d7882f589c3cacd676ceee497b95d121652f8f0ff2891387e19199f94cfcc5c",
+   "south": 53.33087,
+   "west": -113.90625,
+   "north": 55.77657,
+   "east": -109.95117
+  },
+  {
+   "file": "alberta-8.jmv",
+   "bytes": 41447422,
+   "sha256": "ba0951347f6f27a1c0b53bb9621cc7b6e39b9d48e73d0aae4744483bea9d01ea",
+   "south": 53.33087,
+   "west": -120.05859,
+   "north": 54.16243,
+   "east": -117.42188
+  },
+  {
+   "file": "alberta-9.jmv",
+   "bytes": 40542151,
+   "sha256": "d49f34b016747d7c0d67f8396cdc53c20368b540d567567d88459e4c52cac947",
+   "south": 52.48278,
+   "west": -119.53125,
+   "north": 53.33087,
+   "east": -117.42188
+  },
+  {
+   "file": "alberta-10.jmv",
+   "bytes": 23763311,
+   "sha256": "95a40910fb8a4b570e0012e8d704a19398debc0b6b01f3c3aed348496a7c65b4",
+   "south": 52.48278,
+   "west": -117.42188,
+   "north": 53.33087,
+   "east": -115.3125
+  },
+  {
+   "file": "alberta-11.jmv",
+   "bytes": 21757287,
+   "sha256": "c78d9d49f93ed97fb01328a1b6e0a707866394b167a7a74e52ee52ebe6540389",
+   "south": 51.61802,
+   "west": -115.3125,
+   "north": 53.33087,
+   "east": -113.20312
+  },
+  {
+   "file": "alberta-12.jmv",
+   "bytes": 37361144,
+   "sha256": "72eb592acda3643b6684aad6b07af2dacb07c7fc3d569da7cc15ea702987d1f6",
+   "south": 50.73646,
+   "west": -113.20312,
+   "north": 53.33087,
+   "east": -109.95117
+  },
+  {
+   "file": "alberta-13.jmv",
+   "bytes": 30282374,
+   "sha256": "567c7c6061d05c015801c29c47b976bc5db616055f9d45969440eb2736e74995",
+   "south": 51.67256,
+   "west": -118.34473,
+   "north": 52.48278,
+   "east": -116.71875
+  },
+  {
+   "file": "alberta-14.jmv",
+   "bytes": 29438104,
+   "sha256": "7b66290f672322a8d729bc11533cc9bf0bc5b607258678cc0ded0d0aba88fcff",
+   "south": 51.06902,
+   "west": -116.71875,
+   "north": 52.48278,
+   "east": -116.01562
+  },
+  {
+   "file": "alberta-15.jmv",
+   "bytes": 37237319,
+   "sha256": "bf206f4c07b605487989bcb0d8a89a9bd40b02af55c96a125a54ffe8976d972f",
+   "south": 50.56928,
+   "west": -116.01562,
+   "north": 52.48278,
+   "east": -115.3125
+  },
+  {
+   "file": "alberta-16.jmv",
+   "bytes": 26649137,
+   "sha256": "dba4c64e1a11c613e6af24b99bdf52ffdab5000c828dc7a000d7372e83cbf3ad",
+   "south": 50.73646,
+   "west": -115.3125,
+   "north": 51.61802,
+   "east": -113.20312
+  },
+  {
+   "file": "alberta-17.jmv",
+   "bytes": 39300809,
+   "sha256": "8718f2ab3a68e2c298fd2f4f3aba3c7040984c39e1ec391fc916fd5b0552e65a",
+   "south": 48.95137,
+   "west": -115.3125,
+   "north": 50.73646,
+   "east": -113.90625
+  },
+  {
+   "file": "alberta-18.jmv",
+   "bytes": 35346789,
+   "sha256": "a10ec1d4801f8d66e842c5c965515afd8ba3826062bbb375de843347835b049d",
+   "south": 48.95137,
+   "west": -113.90625,
+   "north": 50.73646,
+   "east": -109.95117
+  }
+ ]
+}
